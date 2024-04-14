@@ -1,5 +1,6 @@
 ---
 title: 첫 번째 글 작성
+comments: true
 author: chanyongp
 date: 2024-04-14 17:17:00 +09:00
 categories: [Blogging, Trial]
@@ -20,4 +21,6 @@ https://velog.io/@coastby/Git-GitBlog-Chirpy-Jekyll-Theme-적용하기
 https://ree31206.tistory.com/entry/  github-pages-블로그-만들기-테마-적용하기Chirpy  
 https://seong6496.tistory.com/270  
 
-https://jamesu.dev/posts/2020/01/03/adding-disqus-comment-service-to-jekyll/
+https://jamesu.dev/posts/2020/01/03/adding-disqus-comment-service-to-jekyll/  
+https://present4n6.tistory.com/8  
+https://jongsky.tistory.com/26

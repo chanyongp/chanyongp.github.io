@@ -105,7 +105,7 @@ comments:
   provider: disqus
   # The provider options are as follows:
   disqus:
-    shortname: chanyongp.github.io # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: chanyongp-github-io # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
