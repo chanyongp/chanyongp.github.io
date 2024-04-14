@@ -8,8 +8,7 @@ render_with_liquid: false
 ---
 
 첫번째 블로그 글입니다.
-
-계속 오류가 발생하고, push할 때마다 에러가 발생한다...
+github action을 이용해서 에러를 해결했습니다.
 
 Reference : 
 https://supermemi.tistory.com/entry/나만의-블로그-만들기-Git-hub-blog-GitHubio
