@@ -15,6 +15,8 @@ jekyll 기반이며, 테마는 chirpy입니다.
 추가적으로 disqus 댓글 서비스를 연동시켰으며,  
 이는 아래 사이트 중 https://jongsky.tistory.com/26 에서 많은 도움을 받았습니다.
 
+<img src="image.png" width="60%" height="60%"></img>
+
 문의사항은 댓글 혹은 메일로 보내주세요.  
 읽어주셔서 감사합니다! 😀
 
