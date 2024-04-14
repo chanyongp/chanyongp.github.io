@@ -14,3 +14,4 @@ https://supermemi.tistory.com/entry/나만의-블로그-만들기-Git-hub-blog-G
 https://wlqmffl0102.github.io/posts/Making-Git-blogs-for-beginners-3/
 https://jojoldu.tistory.com/288
 https://velog.io/@coastby/Git-GitBlog-Chirpy-Jekyll-Theme-적용하기
+https://ree31206.tistory.com/entry/github-pages-블로그-만들기-테마-적용하기Chirpy
