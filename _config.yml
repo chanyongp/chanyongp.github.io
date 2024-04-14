@@ -219,3 +219,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+disqus:
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'chanyongp'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
