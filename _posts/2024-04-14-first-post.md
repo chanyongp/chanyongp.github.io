@@ -1,6 +1,6 @@
 ---
-title: Writing a New Post
-author: cotes
+title: first post
+author: chanyongp
 date: 2024-04-14 17:17:00 +0800
 categories: [Blogging, Trial]
 tags: [writing]
