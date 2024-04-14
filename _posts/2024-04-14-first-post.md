@@ -12,7 +12,7 @@ jekyll 기반이며, 테마는 chirpy입니다.
 
 블로그 제작 및 글 작성에 참조한 글들은 아래 Reference를 참조해주시면 됩니다.  
 추가적으로 disqus 댓글 서비스를 연동시켰으며,  
-이는 아래 사이트 중 https://jongsky.tistory.com/26 에서 많은 도움을 받았습니다.
+이는 아래 사이트 중 https://jongsky.github.io/Study-Log/posts/Disqus를-이용한-Jekyll,Github.io에-댓글-연동/ 에서 많은 도움을 받았습니다.
 
 <!--<img src="image.png" width="60%" height="60%"></img>-->
 
@@ -28,6 +28,4 @@ https://ree31206.tistory.com/entry/  github-pages-블로그-만들기-테마-적
 https://seong6496.tistory.com/270  
 https://velog.io/@uzchu/Github-블로그-image-삽입하기  
 
-https://jamesu.dev/posts/2020/01/03/adding-disqus-comment-service-to-jekyll/  
-https://present4n6.tistory.com/8  
-https://jongsky.tistory.com/26
+https://jongsky.github.io/Study-Log/posts/Disqus를-이용한-Jekyll,Github.io에-댓글-연동/
