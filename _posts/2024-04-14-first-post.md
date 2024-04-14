@@ -7,13 +7,13 @@ tags: [writing]
 render_with_liquid: false
 ---
 
-첫번째 블로그 글입니다.
-블로그 제작 및 글 작성에 참조한 글들은 아래 Reference를 참조해주시면 됩니다.
+첫번째 블로그 글입니다.  
+블로그 제작 및 글 작성에 참조한 글들은 아래 Reference를 참조해주시면 됩니다.  
 
 Reference : 
-https://supermemi.tistory.com/entry/나만의-블로그-만들기-Git-hub-blog-GitHubio
-https://wlqmffl0102.github.io/posts/Making-Git-blogs-for-beginners-3/
-https://jojoldu.tistory.com/288
-https://velog.io/@coastby/Git-GitBlog-Chirpy-Jekyll-Theme-적용하기
-https://ree31206.tistory.com/entry/github-pages-블로그-만들기-테마-적용하기Chirpy
-https://seong6496.tistory.com/270
+https://supermemi.tistory.com/entry/  나만의-블로그-만들기-Git-hub-blog-GitHubio  
+https://wlqmffl0102.github.io/posts/Making-Git-blogs-for-beginners-3/  
+https://jojoldu.tistory.com/288  
+https://velog.io/@coastby/Git-GitBlog-Chirpy-Jekyll-Theme-적용하기  
+https://ree31206.tistory.com/entry/  github-pages-블로그-만들기-테마-적용하기Chirpy  
+https://seong6496.tistory.com/270  
