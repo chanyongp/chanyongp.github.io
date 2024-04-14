@@ -9,7 +9,10 @@ render_with_liquid: false
 
 첫번째 블로그 글입니다.
 
+계속 오류가 발생하고, push할 때마다 에러가 발생한다...
+
 Reference : 
 https://supermemi.tistory.com/entry/나만의-블로그-만들기-Git-hub-blog-GitHubio
 https://wlqmffl0102.github.io/posts/Making-Git-blogs-for-beginners-3/
 https://jojoldu.tistory.com/288
+https://velog.io/@coastby/Git-GitBlog-Chirpy-Jekyll-Theme-적용하기
