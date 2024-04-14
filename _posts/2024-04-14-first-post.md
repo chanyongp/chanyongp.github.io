@@ -1,11 +1,11 @@
 ---
 title: 첫 번째 글
-comments: true
 author: chanyongp
 date: 2024-04-14 17:17:00 +09:00
 categories: [Blogging, Trial]
 tags: [writing]
 render_with_liquid: false
+comments: true
 ---
 ## 1. 소개
 첫번째 github blog 글입니다.  
