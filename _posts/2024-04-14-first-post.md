@@ -8,7 +8,6 @@ render_with_liquid: false
 ---
 
 첫번째 블로그 글입니다.
-github action을 이용해서 에러를 해결했습니다.
 
 Reference : 
 https://supermemi.tistory.com/entry/나만의-블로그-만들기-Git-hub-blog-GitHubio
